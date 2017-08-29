@@ -321,6 +321,16 @@ tuor:visited {
    SECTION VIDEO
 -----------------------------------------*/
 
+.ccm_li_item{
+  list-style-type: disc;
+  font-size: 18px;
+}
+
+.titre_comment_ca_marche{
+  color: #ff8a80;
+    font-size: 30px;
+    padding-top:20px;
+}
 .video_area {
     background: #e4e4e4;
     padding-bottom: 140px;
