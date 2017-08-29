@@ -82,6 +82,7 @@ p {
 
 .menu__haut{
   background: #fff !important;
+  border-bottom: 2px solid #ff8a80;
 }
 
 .header h2 {
