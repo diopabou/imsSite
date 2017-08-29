@@ -81,7 +81,7 @@ p {
 /*menu*/
 
 .menu__haut{
-  background: #303f9f !important;
+  background: #fff !important;
 }
 
 .header h2 {
@@ -99,14 +99,14 @@ p {
         background-color: transparent;
     }
     .navbar-default .navbar-nav>li>a {
-        color: #fff; // #B5B5B5;
+        color: #303f9f; // #B5B5B5;
         font-family: 'Raleway', sans-serif;
     }
     .navbar-default .navbar-nav>li>a:hover {
-        color: #fff; //#ff8a80;
+        color: #303f9f; //#ff8a80;
     }
     .navbar-default .navbar-nav>li>a:focus {
-        color: #fff; //#B5B5B5;
+        color: #303f9f; //#B5B5B5;
     }
     .navbar-default {
         -webkit-transition: all 1s;
@@ -142,7 +142,7 @@ p {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     background: transparent;
-    color: #ff8a80;
+    color: #303f9f; //#ff8a80;
 }
 .header {
     background: url(../images/home.jpg);
